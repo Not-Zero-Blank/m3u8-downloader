@@ -1,3 +1,0 @@
-# Why?
-Well i need a m3u8 Downloader for an upcoming Project i maintain...</br>
-i found out ffmpeg can do that too so this was an Education project ig...
